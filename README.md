@@ -24,7 +24,7 @@ dotnet run
 ```
 
 ## Specifications:
-* User can print in console number and get list of primes less than that number
+* User can enter in console number and get list of primes less than that number
 
 ## Technologies Used
 
